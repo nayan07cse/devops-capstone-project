@@ -8,9 +8,8 @@
 
 ## Development Environment
 
-These labs are designed to be executed in the Cloud IDE with OpenShift. Please use the links provided in the Coursera Capstone project to access the lab environment.
+These labs are designed to be executed in the Cloud IDE with OpenShift. Once you are in the lab environment, you can initialize it with `bin/setup.sh` by sourcing it.
 
-Once you are in the lab environment, you can initialize it with `bin/setup.sh` by sourcing it.
 ```bash
 source bin/setup.sh
 ```
