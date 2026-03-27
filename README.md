@@ -8,10 +8,9 @@
 
 ## Development Environment
 
-These labs are designed to be executed in the IBM Developer Skills Network Cloud IDE with OpenShift. Please use the links provided in the Coursera Capstone project to access the lab environment.
+These labs are designed to be executed in the Cloud IDE with OpenShift. Please use the links provided in the Coursera Capstone project to access the lab environment.
 
-Once you are in the lab environment, you can initialize it with `bin/setup.sh` by sourcing it. (*Note: DO NOT run this program as a bash script. It sets environment variable and so must be sourced*):
-
+Once you are in the lab environment, you can initialize it with `bin/setup.sh` by sourcing it.
 ```bash
 source bin/setup.sh
 ```
